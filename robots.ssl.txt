@@ -1,0 +1,12 @@
+User-Agent: *
+Allow: /index.html
+Allow: /civil_rights.html
+Allow: /education_lawyer.html
+Allow: /employment_lawyer.html
+Allow: /juvenile_defense.html
+Allow: /lawyer_for_children.html
+Allow: /debt_collection.html
+Disallow: /Templates
+Disallow: /Templates/
+
+Sitemap: https://appsatlaw.com/sitemap.xml

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>https://appsatlaw.com/</loc>
+
+      <lastmod>2019-01-14</lastmod>
+
+      <changefreq>daily</changefreq>
+
+      <priority>1.0</priority>
+
+   </url>
+
+    <url>
+
+      <loc>https://appsatlaw.com/civil_rights.html</loc>
+
+      <lastmod>2019-01-14</lastmod>
+
+      <changefreq>daily</changefreq>
+
+      <priority>0.5</priority>
+
+   </url>  
+    
+    <url>
+
+      <loc>https://appsatlaw.com/education_lawyer.html</loc>
+
+      <lastmod>2019-01-14</lastmod>
+
+      <changefreq>daily</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>   
+    
+    <url>
+
+      <loc>https://appsatlaw.com/employment_lawyer.html</loc>
+
+      <lastmod>2019-01-14</lastmod>
+
+      <changefreq>daily</changefreq>
+
+      <priority>0.5</priority>
+
+   </url>  
+    
+    <url>
+
+      <loc>https://appsatlaw.com/index.html</loc>
+
+      <lastmod>2019-01-14</lastmod>
+
+      <changefreq>daily</changefreq>
+
+      <priority>1.0</priority>
+
+   </url>   
+    
+    <url>
+
+      <loc>https://appsatlaw.com/juvenile_defense.html</loc>
+
+      <lastmod>2019-01-14</lastmod>
+
+      <changefreq>daily</changefreq>
+
+      <priority>0.5</priority>
+
+   </url>
+    
+     <url>
+
+      <loc>https://appsatlaw.com/lawyer_for_children.html</loc>
+
+      <lastmod>2019-01-14</lastmod2>
+
+      <changefreq>daily</changefreq>
+
+      <priority>0.6</priority>
+
+   </url>
+
+    <url>
+
+      <loc>https://appsatlaw.com/debt_collection.html</loc>
+
+      <lastmod>2019-01-14</lastmod2>
+
+      <changefreq>daily</changefreq>
+
+      <priority>0.6</priority>
+
+   </url>
+    
+    
+</urlset>
+
